@@ -7,6 +7,7 @@ set vpn1=zwvpn
 set vpn2=youdongvpn
 set pathdir=D:\Desktop\
 
+
 rem set /p myCHOOSE="disconect vpn yes/no:"
 rem if "%myCHOOSE%"=="yes" (
    rem  rasdial %vpn1% /DISCONNECT
