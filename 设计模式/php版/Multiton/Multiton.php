@@ -3,7 +3,7 @@
 namespace DesignPatterns\Creational\Multiton;
 
 /**
- * Multiton类
+ * Multiton类   多例模式  -- 创建型
  */
 class Multiton
 {
